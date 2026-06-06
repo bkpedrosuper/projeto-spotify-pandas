@@ -7,3 +7,4 @@ venv/
 gabarito/
 *.egg-info/
 .ipynb_checkpoints/
+notebooks/eda_spotify.ipynb
